@@ -37,10 +37,3 @@ Web Developer
 <a href="http://www.github.com/vipuly1"><img src="https://activity-graph.herokuapp.com/graph?username=vipuly1&bg_color=22272e&color=ffffff&line=14b8a6&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/vipuly1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipuly1&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/vipuly1/fitnessWebApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipuly1&repo=fitnessWebApp&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/vipuly1/Basic-admin-panel-react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipuly1&repo=Basic-admin-panel-react&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/vipuly1/Shoplane" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vipuly1&repo=Shoplane&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en" /></a></div>
